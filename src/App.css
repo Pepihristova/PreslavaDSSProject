@@ -1,0 +1,44 @@
+body, html {
+  
+    font-family: "Times New Roman", Times, serif;
+    background-color: #ADD8E6;
+  }
+.navbar, .footer {
+    background-color: #0047AB;
+    color: #ADD8E6;
+    text-align: center;
+  }
+
+.mainDiv{
+	padding: 0.5%;
+}
+.books{
+	background-color: #6495ED;
+	padding: 1%;
+
+}
+.booksitself{
+	background-color: #ADD8E6;
+	width: 25%;
+	margin: auto;
+
+}
+.booksitself ul li{
+	display: inline-block;
+	background-color: #ADD8E6;
+	-webkit-box-shadow: 0px 0px 83px 31px rgba(250,250,250,1);
+-moz-box-shadow: 0px 0px 83px 31px rgba(250,250,250,1);
+box-shadow: 0px 0px 83px 31px rgba(250,250,250,1);
+	margin: 2%;
+
+}
+.booksitself ul li p{
+	margin: auto;
+	color: #000;
+	font-style: italic;
+}
+.content-details{
+	background-color: #ADD8E6;
+	width: 40%;
+	margin: auto;
+  }
